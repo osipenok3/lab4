@@ -1,0 +1,6 @@
+model\Place.class
+model\Hall.class
+service\DataBaseService.class
+service\PlacesRepository.class
+servlet\IndexServlet.class
+model\Category.class
